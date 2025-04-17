@@ -13,7 +13,7 @@ cargo install cargo-generate
 WebAssembly project are lib projects in Rust :
 
 ```sh
-cargo new my_wasm_project --lib
+cargo new wasm_log_extractor --lib
 ```
 
 Build command :
